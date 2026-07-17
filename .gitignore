@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
+
+# Instructor solution notebooks — local only, NEVER pushed
+*_solution.ipynb
